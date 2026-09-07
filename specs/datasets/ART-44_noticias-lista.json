@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "pagina": 1,
+  "totalPaginas": 4,
+  "noticias": [
+    {
+      "titulo": "ESJUD abre inscrições para curso de gestão",
+      "url": "https://esjud.tjac.jus.br/noticias/gestao-2025",
+      "data": "2025-03-01",
+      "imagemPrincipal": "https://esjud.tjac.jus.br/img/gestao.jpg",
+      "resumo": "Vagas limitadas para servidores do TJAC.",
+      "categorias": ["Cursos", "Capacitação"]
+    },
+    {
+      "titulo": "Semana de valorização do servidor",
+      "url": "https://esjud.tjac.jus.br/noticias/semana-servidor",
+      "data": "2025-02-20",
+      "imagemPrincipal": null,
+      "resumo": null,
+      "categorias": []
+    }
+  ]
+}

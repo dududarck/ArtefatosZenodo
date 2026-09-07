@@ -1,0 +1,29 @@
+{
+  "status": true,
+  "data": [
+    {
+      "id_certificado": 101,
+      "nome_curso": "Pós-graduação em Direito Processual",
+      "carga_horaria": 360,
+      "nome_instituicao": "Universidade Federal",
+      "curso_credenciado": "S",
+      "arquivo_url": "https://exemplo/arq/101.pdf",
+      "id_situacao": 1,
+      "situacao": "Em análise",
+      "parecer": null,
+      "data_cadastro": "2025-02-10"
+    },
+    {
+      "id_certificado": 102,
+      "nome_curso": "Curso de Extensão em Mediação",
+      "carga_horaria": 40,
+      "nome_instituicao": "Escola Nacional",
+      "curso_credenciado": "N",
+      "arquivo_url": "https://exemplo/arq/102.pdf",
+      "id_situacao": 3,
+      "situacao": "Deferido",
+      "parecer": "Aprovado pela comissão",
+      "data_cadastro": "2024-11-01"
+    }
+  ]
+}

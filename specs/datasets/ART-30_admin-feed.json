@@ -1,0 +1,24 @@
+{
+  "notifications": [
+    {
+      "id": "n-001",
+      "title": "Manutenção programada do AVA",
+      "message": "O AVA ficará indisponível no domingo, das 2h às 4h.",
+      "type": "comunicado",
+      "target": "all",
+      "actionUrl": null,
+      "createdAt": "2025-03-10T12:00:00Z",
+      "createdBy": "ESJUD"
+    },
+    {
+      "id": "n-002",
+      "title": "Novo curso disponível",
+      "message": "Inscrições abertas para Redação Oficial.",
+      "type": "curso",
+      "target": "all",
+      "actionUrl": "https://esjud.tjac.jus.br/cursos/redacao",
+      "createdAt": "2025-03-11T09:30:00Z",
+      "createdBy": "ESJUD"
+    }
+  ]
+}

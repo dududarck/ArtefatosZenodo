@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "total": 15,
+  "certificados": [
+    { "index": 0, "tipo": "Curso", "periodo": "2024", "atividade": "Formação em Gestão Judiciária" },
+    { "index": 1, "tipo": "Curso", "periodo": "2024", "atividade": "Introdução ao Processo Eletrônico" },
+    { "index": 2, "tipo": "Palestra", "periodo": "2023", "atividade": "Ética no Serviço Público" }
+  ]
+}

@@ -1,0 +1,8 @@
+# Este pacote vira depósito no Zenodo: um checkout tem de sair byte a byte
+# igual em qualquer sistema. O core.autocrlf=true desta máquina (escopo system)
+# converteria os .md e .csv para CRLF no checkout e mudaria o hash dos arquivos
+# publicados sem que ninguém tivesse editado nada.
+* text=auto eol=lf
+
+# Diffs legíveis para as tabelas rastreáveis (ART-11, ART-12, ARTIFACT_INDEX).
+*.csv text eol=lf diff

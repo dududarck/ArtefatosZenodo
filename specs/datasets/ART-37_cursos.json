@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "total": 2,
+  "cursos": [
+    {
+      "index": 0,
+      "periodo": "10/03/2025 a 30/04/2025",
+      "curso": "Curso: Excel Avançado para Servidores.",
+      "dataAtividade": "",
+      "projeto": "Capacitação Continuada",
+      "publico": "Servidores",
+      "ch": "20h",
+      "vagas": "30",
+      "local": "EAD",
+      "url": "/inscricao/excel-avancado"
+    },
+    {
+      "index": 1,
+      "periodo": "2025",
+      "curso": "Oratória e Comunicação",
+      "dataAtividade": "05/05/2025 a 09/05/2025",
+      "projeto": "Desenvolvimento de Competências",
+      "publico": "Magistrados e Servidores",
+      "ch": "16h",
+      "vagas": "25",
+      "local": "Presencial - Rio Branco",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "usuario": { "cpf": "11111111111", "nome": "super teste", "email": "super.teste@tjac.jus.br" },
+  "pcd": [ { "valor": "N", "label": "Não" }, { "valor": "S", "label": "Sim" } ],
+  "genero": [ { "valor": "M", "label": "Masculino" }, { "valor": "F", "label": "Feminino" } ],
+  "raca": [ { "valor": "1", "label": "Branca" }, { "valor": "2", "label": "Parda" } ],
+  "vinculo": [ { "valor": "N", "label": "Sem vínculo" }, { "valor": "S", "label": "Com vínculo" } ],
+  "ocupacaoSemVinculo": [ { "valor": "10", "label": "Estudante" } ],
+  "ocupacaoComVinculo": [ { "valor": "20", "label": "Servidor TJAC" } ],
+  "local": { "label": "Comarca", "opcoes": [ { "valor": "RB", "label": "Rio Branco" } ] },
+  "setor": { "label": "Setor", "opcoes": [ { "valor": "TI", "label": "Tecnologia da Informação" } ] }
+}

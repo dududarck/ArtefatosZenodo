@@ -1,0 +1,46 @@
+ID,Caminho,Descrição
+ART-01,research/ART-01_STUDY_PROTOCOL.md,"Protocolo do estudo (desenho, restrições declaradas)"
+ART-02,research/ART-02_BASELINE.md,Identificação da baseline Android
+ART-03,research/ART-03_BASELINE_MANIFEST.md,Manifesto de hashes SHA-256 da baseline (sem conteúdo)
+ART-04,research/ART-04_ENVIRONMENT.md,"Registro do ambiente técnico (Xcode, SO, dependências)"
+ART-05,research/ART-05_RESEARCH_LOG.md,Diário de pesquisa cronológico (P0001-P0048)
+ART-06,research/ART-06_DECISIONS.md,Registro de decisões (D0001-D0096)
+ART-07,research/ART-07_GATES.md,Registro dos gates de convergência por fase
+ART-08,research/METRICS/ART-08_README.md,Guia de leitura da pasta
+ART-09,research/METRICS/ART-09_PARTIAL_RESULTS_SUMMARY.md,Resumo executivo parcial dos resultados (P0036)
+ART-10,research/METRICS/ART-10_PARTIAL_RESULTS_CURRENT.md,Relatório técnico completo de métricas (M001-M111)
+ART-11,research/METRICS/ART-11_PARTIAL_RESULTS_TABLE.csv,Tabela de métricas com fonte rastreável
+ART-12,research/METRICS/ART-12_FINDINGS_CURRENT.csv,Tabela de achados com fonte rastreável (F-###)
+ART-13,specs/ART-13_README.md,Guia de leitura da pasta
+ART-14,specs/domain/ART-14_vocabulario-e-atores.md,Vocabulário e atores do domínio
+ART-15,specs/domain/ART-15_funcionalidades-e-fluxos.md,Funcionalidades e fluxos do domínio
+ART-16,specs/technical/ART-16_architecture.md,"Arquitetura técnica (módulos, versões V1/V2)"
+ART-17,specs/technical/ART-17_dependencias-e-plataforma.md,Dependências e plataforma-alvo
+ART-18,specs/technical/ART-18_persistencia-e-dados-locais.md,Persistência e dados locais
+ART-19,specs/technical/ART-19_comportamentos-especificos-android.md,Comportamentos específicos observados no Android
+ART-20,specs/models/ART-20_modelos-de-dados.md,Modelos de dados do domínio
+ART-21,specs/validation/ART-21_criterios-de-validacao.md,Critérios de validação (VAL) e Test Map
+ART-22,specs/validation/ART-22_critical-coverage.md,Cobertura de achados críticos da Fase 2
+ART-23,specs/validation/ART-23_premise-coverage.md,Cobertura de premissas assumidas
+ART-24,specs/design/ART-24_coverage-matrix.md,Matriz de cobertura de design
+ART-25,specs/datasets/ART-25_README.md,Guia de leitura da pasta
+ART-26,specs/examples/ART-26_README.md,Guia de leitura da pasta
+ART-27,specs/references/ART-27_lessons.md,Lições aprendidas e backlog v2.0
+ART-28,specs/references/ART-28_perguntas-para-va-human.md,Perguntas formuladas ao pesquisador (VA-human)
+ART-29,specs/references/ART-29_rastreabilidade-baseline.md,Rastreabilidade de arquivos Android inspecionados
+ART-30,specs/datasets/ART-30_admin-feed.json,Fixture de teste (dataset)
+ART-31,specs/datasets/ART-31_cert-ext-item-minimo.json,Fixture de teste (dataset)
+ART-32,specs/datasets/ART-32_cert-ext-listar.json,Fixture de teste (dataset)
+ART-33,specs/datasets/ART-33_cert-ext-obter-pessoa-encontrada.json,Fixture de teste (dataset)
+ART-34,specs/datasets/ART-34_cert-ext-obter-pessoa-nao-encontrada.json,Fixture de teste (dataset)
+ART-35,specs/datasets/ART-35_certidao-validate.json,Fixture de teste (dataset)
+ART-36,specs/datasets/ART-36_certificados-producao-real.json,Fixture de teste (dataset)
+ART-37,specs/datasets/ART-37_cursos.json,Fixture de teste (dataset)
+ART-38,specs/datasets/ART-38_inscricao-formulario-400.json,Fixture de teste (dataset)
+ART-39,specs/datasets/ART-39_inscricao-formulario-409.json,Fixture de teste (dataset)
+ART-40,specs/datasets/ART-40_inscricao-formulario-sucesso.json,Fixture de teste (dataset)
+ART-41,specs/datasets/ART-41_moodle-site-info.json,Fixture de teste (dataset)
+ART-42,specs/datasets/ART-42_moodle-token-erro.json,Fixture de teste (dataset)
+ART-43,specs/datasets/ART-43_moodle-token-sucesso.json,Fixture de teste (dataset)
+ART-44,specs/datasets/ART-44_noticias-lista.json,Fixture de teste (dataset)
+ART-45,specs/datasets/ART-45_noticias-materia-nao-encontrada.json,Fixture de teste (dataset)

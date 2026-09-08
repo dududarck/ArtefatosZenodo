@@ -24,5 +24,16 @@ keywords:
   - artefatos de pesquisa
 license: CC-BY-4.0
 repository-code: "https://github.com/dududarck/ArtefatosZenodo"
-# O DOI é preenchido depois do primeiro release: o Zenodo só o emite ao
-# recolher o zipball, então não existe número para colocar aqui antes disso.
+version: 1.0.1
+date-released: "2026-09-08"
+# DOI de conceito: representa todas as versões e resolve para a mais recente.
+# É ele que vai aqui, e não o da versão — um CITATION.cff citado por terceiros
+# deve continuar apontando para o pacote atual depois do próximo release.
+doi: 10.5281/zenodo.22664295
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22664295
+    description: DOI de conceito (todas as versões)
+  - type: doi
+    value: 10.5281/zenodo.22664296
+    description: DOI da versão v1.0.0

@@ -65,6 +65,8 @@ O conteúdo textual deste repositório está licenciado sob
 
 ## Como citar
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22664295.svg)](https://doi.org/10.5281/zenodo.22664295)
+
 ```bibtex
 @dataset{IacdmEsjudDataset2026,
   author       = {Almeida, Allan Diego and Ferreira, Eduardo Souza and Costa, Catarina de Souza},
@@ -72,8 +74,16 @@ O conteúdo textual deste repositório está licenciado sob
                    mobile app reengineering (ESJUD case study)}},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX}
+  doi          = {10.5281/zenodo.22664295}
 }
 ```
 
-*(DOI a ser preenchido após a publicação do depósito.)*
+O DOI acima é o **de conceito**: representa o pacote como um todo e resolve
+sempre para a versão mais recente. É o que se deve citar em texto corrido.
+
+Para apontar para um estado exato do pacote — o caso de quem quer reproduzir a
+verificação sobre os mesmos bytes que o artigo descreve — use o DOI da versão:
+
+| Versão | DOI da versão | Tag |
+|---|---|---|
+| v1.0.0 | `10.5281/zenodo.22664296` | [`v1.0.0`](https://github.com/dududarck/ArtefatosZenodo/tree/v1.0.0) |

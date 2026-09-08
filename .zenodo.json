@@ -1,0 +1,25 @@
+{
+  "upload_type": "dataset",
+  "title": "Research artifacts: IACDM pipeline applied to Android-to-iOS mobile app reengineering (ESJUD case study)",
+  "description": "<p>Artefatos de documenta&ccedil;&atilde;o de processo gerados durante a aplica&ccedil;&atilde;o da metodologia IACDM (<em>Interactive Adversarial Convergence Development Methodology</em>) na reengenharia do aplicativo m&oacute;vel institucional ESJUDAC (Escola do Poder Judici&aacute;rio do Acre / TJAC), de Android nativo (Kotlin) para iOS nativo (Swift), conduzida com uso intensivo de IA generativa.</p><p>O pacote existe para permitir a <strong>verifica&ccedil;&atilde;o independente</strong> do processo descrito no artigo que acompanha: cada afirma&ccedil;&atilde;o quantitativa do texto (n&uacute;mero de decis&otilde;es, fases, achados, testes) &eacute; rastre&aacute;vel a um registro espec&iacute;fico daqui. Inclui o di&aacute;rio de pesquisa cronol&oacute;gico (P0001&ndash;P0048), o registro de decis&otilde;es (D0001&ndash;D0096), os gates de converg&ecirc;ncia por fase, m&eacute;tricas com identificador rastre&aacute;vel (M001&ndash;M111), achados (F-###) e as especifica&ccedil;&otilde;es derivadas da baseline Android.</p><p><strong>N&atilde;o inclui</strong> o c&oacute;digo-fonte das aplica&ccedil;&otilde;es (sistema institucional sobre contratos de API de produ&ccedil;&atilde;o), nem segredos, credenciais ou certificados. Dados pessoais foram sanitizados: o CPF de conta de teste institucional foi substitu&iacute;do por uma sequ&ecirc;ncia inv&aacute;lida perante o algoritmo de d&iacute;gitos verificadores.</p>",
+  "creators": [
+    { "name": "Almeida, Allan Diego" },
+    { "name": "Ferreira, Eduardo Souza" },
+    { "name": "Costa, Catarina de Souza" }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "por",
+  "keywords": [
+    "IACDM",
+    "vibe coding",
+    "IA generativa",
+    "engenharia de software",
+    "reengenharia de software",
+    "migração Android-iOS",
+    "desenvolvimento móvel",
+    "artefatos de pesquisa",
+    "ciência reproduzível"
+  ],
+  "notes": "Os documentos do pacote estão em português; o título segue em inglês por acompanhar a submissão do artigo."
+}

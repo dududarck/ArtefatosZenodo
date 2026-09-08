@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Se usar estes artefatos, cite conforme abaixo."
+title: >-
+  Research artifacts: IACDM pipeline applied to Android-to-iOS
+  mobile app reengineering (ESJUD case study)
+type: dataset
+authors:
+  - family-names: Almeida
+    given-names: Allan Diego
+  - family-names: Ferreira
+    given-names: Eduardo Souza
+  - family-names: Costa
+    given-names: Catarina de Souza
+abstract: >-
+  Artefatos de documentação de processo da aplicação da metodologia IACDM na
+  reengenharia do aplicativo móvel ESJUDAC (TJAC) de Android nativo para iOS
+  nativo, com uso intensivo de IA generativa. Permite verificação independente
+  do processo descrito no artigo que acompanha.
+keywords:
+  - IACDM
+  - vibe coding
+  - reengenharia de software
+  - migração Android-iOS
+  - artefatos de pesquisa
+license: CC-BY-4.0
+repository-code: "https://github.com/dududarck/ArtefatosZenodo"
+# O DOI é preenchido depois do primeiro release: o Zenodo só o emite ao
+# recolher o zipball, então não existe número para colocar aqui antes disso.
